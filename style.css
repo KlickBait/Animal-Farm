@@ -1,0 +1,18 @@
+body{
+  background-image: url("assets/greenhill.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover
+}
+#navbar{
+  background-image: url("assets/greenhill.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+#pig{
+  width:200px;
+  height:250px;
+}
+  
